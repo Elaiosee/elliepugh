@@ -1,0 +1,19 @@
+/* This is my css file */
+
+/*Styles of tags*/
+html {
+  background-color: black;
+}
+
+/*styles of classes*/
+.Classic_Rock  {
+  background-image: url(https://www.uberchord.com/wp-content/uploads/2015/10/redspecial2.jpg);
+  background-size: cover;
+  height: 600px;
+}
+
+
+/*styles of id's*/
+#LiveAid {
+  background-color: blue;
+}
